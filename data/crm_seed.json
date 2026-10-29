@@ -1,0 +1,17 @@
+{
+  "leads": [
+    {
+      "id": "L-1001",
+      "company": "Example Sp. z o.o.",
+      "contact_name": "Jan Example",
+      "email": "jan@example.pl",
+      "need": "General inquiry",
+      "budget": null,
+      "next_step": "Awaiting reply",
+      "status": "cold",
+      "source": "seed",
+      "updated_at": "2026-10-01T10:00:00Z",
+      "notes": []
+    }
+  ]
+}

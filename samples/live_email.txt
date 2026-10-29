@@ -1,0 +1,17 @@
+From: marek.zielinski@nordpack.pl
+To: sales@emfire-demo.example
+Subject: Quote for sales follow-up automation
+
+Hi,
+
+I am Marek Zielinski, Sales Director at NordPack Sp. z o.o. in Gdansk.
+We need help turning meeting notes and inbound RFQs into CRM updates and
+short follow-up offer emails for our reps.
+
+Volume: about 25 inbound RFQs per week.
+Budget range: 6,000 - 10,000 PLN / month for a 6-week pilot.
+If useful, we would like a live PoC demo next week and a draft offer.
+
+Best regards,
+Marek Zielinski
++48 600 222 333

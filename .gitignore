@@ -1,0 +1,6 @@
+data/crm.json
+out/
+__pycache__/
+*.pyc
+.venv/
+DEMO_SCRIPT.md

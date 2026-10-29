@@ -1,0 +1,15 @@
+Meeting notes - 2026-10-27
+Attendees: Piotr Nowak (Acme Logistics), Hriday (demo seller)
+
+Piotr said Acme Logistics wants AI help for sales follow-ups.
+Pain point: reps spend too long rewriting CRM notes into offers.
+They already use a simple CRM spreadsheet and email.
+Interested in a PoC that:
+- reads inbound emails / meeting notes
+- updates CRM fields (company, contact, need, budget, next step)
+- drafts a short sales offer email
+
+Contact: piotr.nowak@acmelogistics.pl
+Company size: ~80 employees, Warsaw
+Timeline: pilot in November if the draft looks good.
+Budget signal: "under 15k PLN / month for automation tools".
